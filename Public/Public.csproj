@@ -4,4 +4,39 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Include="AvengersFacialRecognition\Black_Widow_1.jpg" />
+    <Content Include="AvengersFacialRecognition\Black_Widow_2.jpg" />
+    <Content Include="AvengersFacialRecognition\Captain_America_1.jpg" />
+    <Content Include="AvengersFacialRecognition\Captain_America_2.jpg" />
+    <Content Include="AvengersFacialRecognition\Captain_Marvel_1.jpg" />
+    <Content Include="AvengersFacialRecognition\Captain_Marvel_2.jpg" />
+    <Content Include="AvengersFacialRecognition\Hawkeye_1.jpg" />
+    <Content Include="AvengersFacialRecognition\Hawkeye_2.jpg" />
+    <Content Include="AvengersFacialRecognition\Jim_Rhodes_1.jpg" />
+    <Content Include="AvengersFacialRecognition\Jim_Rhodes_2.jpg" />
+    <Content Include="AvengersFacialRecognition\Thor_1.jpg" />
+    <Content Include="AvengersFacialRecognition\Thor_2.jpg" />
+    <Content Include="AvengersFacialRecognition\Tony_Stark_1.jpg" />
+    <Content Include="AvengersFacialRecognition\Tony_Stark_2.jpg" />
+    <Content Include="TwiceFacialRecognition\Chaeyoung_1.jpg" />
+    <Content Include="TwiceFacialRecognition\Chaeyoung_2.jpg" />
+    <Content Include="TwiceFacialRecognition\Dahyun_1.jpg" />
+    <Content Include="TwiceFacialRecognition\Dahyun_2.jpg" />
+    <Content Include="TwiceFacialRecognition\Jeongyeon_1.png" />
+    <Content Include="TwiceFacialRecognition\Jeongyeon_2.jpg" />
+    <Content Include="TwiceFacialRecognition\Jihyo_1.jpg" />
+    <Content Include="TwiceFacialRecognition\Jihyo_2.jpg" />
+    <Content Include="TwiceFacialRecognition\Mina_1.jpg" />
+    <Content Include="TwiceFacialRecognition\Mina_2.jpg" />
+    <Content Include="TwiceFacialRecognition\Momo_1.jpg" />
+    <Content Include="TwiceFacialRecognition\Momo_2.jpg" />
+    <Content Include="TwiceFacialRecognition\Nayeon_1.jpg" />
+    <Content Include="TwiceFacialRecognition\Nayeon_2.png" />
+    <Content Include="TwiceFacialRecognition\Sana_1.jpg" />
+    <Content Include="TwiceFacialRecognition\Sana_2.jpg" />
+    <Content Include="TwiceFacialRecognition\Tzuyu_1.jpg" />
+    <Content Include="TwiceFacialRecognition\Tzuyu_2.jpg" />
+  </ItemGroup>
+
 </Project>
